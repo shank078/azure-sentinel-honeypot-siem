@@ -187,7 +187,7 @@ This project intentionally exposes a virtual machine to the public internet with
 👤 Author
 Shankar Baral
 Aspiring Junior Cyber Security Analyst | SOC L1
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankarbaral1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shank078)
 ---
 This lab was built to learn by doing. If the internet wants to attack, we might as well be watching — and mapping every single one.
